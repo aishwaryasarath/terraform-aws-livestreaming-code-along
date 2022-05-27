@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 7. Create public subnet & associate it to the route table
 8. Create private subnet & route table
 9. Create EIP for NAT Gateway
-10. Create NAT Gateway
+10. Create NAT Gateway (NAT gateway depends on EIP & IGW)
+
 
 ## Nuggets from the livestream!!
 1. [Count Meta Argument](https://www.terraform.io/language/meta-arguments/count)
