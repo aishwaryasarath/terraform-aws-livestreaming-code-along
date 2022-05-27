@@ -17,10 +17,13 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 1. Create a VPC
 2. Create the public subnet
 3. Create the internet gateway and attach the VPC to it
-4. Create the route table
+4. Create the public route table
 5. Add the routes
 6. Associate subnet to the route tables
 7. Create public subnet & associate it to the route table
+8. Create private subnet & route table
+9. Create EIP for NAT Gateway
+10. Create NAT Gateway
 
 ## Nuggets from the livestream!!
 1. [Count Meta Argument](https://www.terraform.io/language/meta-arguments/count)
@@ -33,5 +36,4 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/49971693/170728254-13fd0408-6a54-4980-ae17-01da511f94cd.png">
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/49971693/170728401-6a73734c-0026-47f1-b062-edc68d558fd3.png">
 
-
-
+7. [Splat Expressions](https://www.terraform.io/language/expressions/splat)
