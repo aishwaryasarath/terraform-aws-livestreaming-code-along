@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 7. [Splat Expressions](https://www.terraform.io/language/expressions/splat)
 8. Terraform format to format the code. ```terraform fmt```
 9. Terraform graph ```terraform graph | dot -Tsvg > graph.svg ```
+
+<img width="1425" alt="image" src="https://user-images.githubusercontent.com/49971693/170742209-08ca6583-d0fe-4d4b-8a55-eb2446451ad4.png">
+
