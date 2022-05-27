@@ -38,3 +38,4 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/49971693/170728401-6a73734c-0026-47f1-b062-edc68d558fd3.png">
 
 7. [Splat Expressions](https://www.terraform.io/language/expressions/splat)
+8. Terraform format to format the code. ```terraform fmt```
