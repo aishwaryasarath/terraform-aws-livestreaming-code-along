@@ -25,6 +25,5 @@ https://www.youtube.com/watch?v=UAH3CkWrNmo&list=PL81sUbsFNc5bYnjraNpivm1XxR3WNM
 ## Nuggets from the livestream!!
 1. [Count Meta Argument](https://www.terraform.io/language/meta-arguments/count)
 2. [cidrsubnet Function](https://www.terraform.io/language/functions/cidrsubnet)
- <img width="931" alt="image" src="https://user-images.githubusercontent.com/49971693/170726171-2cc870b7-8706-4bc8-92cc-bc11c6a18551.png">
 3. [Element](https://www.terraform.io/language/functions/element)
 4. [Variable](https://www.terraform.io/language/configuration-0-11/interpolation)
